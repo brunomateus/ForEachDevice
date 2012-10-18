@@ -4,7 +4,7 @@ So, you should use adb commands combined with forEachDevice.
 
 ## Requirements
 * adb (Android Debug Bridge) should be in system path
-* You should hava Python installed
+* You should have Python installed
 * Operational System: Linux
 
 ## Example of use ##
