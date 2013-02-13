@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 # forEachDevice - A helper shell script to execute adb commands in every device connected automatically
 #
 # Copyright (C) <2012>  
@@ -17,7 +19,6 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-#!/usr/bin/python
 
 import os
 import sys
